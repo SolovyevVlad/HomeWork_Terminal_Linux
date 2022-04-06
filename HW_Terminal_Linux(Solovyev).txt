@@ -33,4 +33,24 @@ Linux terminal (GitBash) commands
 	файла (команда less) изучите 
 	как она работает.
 20) вывести дату и время		---->	$ date 
+
 =========
+
+Задание *
+1) Отправить http запрос на сервер.	---->	$ curl -v http://162.55.220.72:5005/terminal-hw-request
+"http://162.55.220.72:500..."
+
+2) Написать скрипт который выполнит 	---->	$ touch script
+	автоматически пункты 			$ vim script
+	3, 4, 5, 6, 7, 8, 13				#!/bin/bash
+							cd folder/
+							mkdir folder_1 folder_2 folder_3
+							cd folder_2
+							touch file_1.txt file_2.txt file_3.txt file_4.json file_5.json
+							mkdir inner_folder_1 inner_folder_2 inner_folder_3
+							ls -la
+							cd ..
+							mv folder_2/file_1.txt folder_2/file_2.txt folder_1
+						$ chmod ugo+x script 
+						$ ./script 
+
