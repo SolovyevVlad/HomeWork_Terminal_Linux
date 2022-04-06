@@ -37,8 +37,8 @@ Linux terminal (GitBash) commands
 =========
 
 Задание *
-1) Отправить http запрос на сервер.	---->	$ curl -v http://162.55.220.72:5005/terminal-hw-request
-"http://162.55.220.72:500..."
+1) Отправить http запрос на сервер.	---->	$ curl -v http://...:5005/terminal-hw-request
+"http://...:5005/terminal-hw-request"
 
 2) Написать скрипт который выполнит 	---->	$ touch script
 	автоматически пункты 			$ vim script
