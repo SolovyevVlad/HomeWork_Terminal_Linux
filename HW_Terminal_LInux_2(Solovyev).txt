@@ -42,7 +42,7 @@ Termial. HW_2
 										13. ewkovkovk 43-=-2-3rl2,f
 										14. 1135234t,g 435t0 23-r sfl3 f sa[[
 										15. awdk ow3s0 230 sdom w3412 sdf;'l wef2 p3r w]1212e[ [123]]3d s
-15. Сделать текстовый файл tF_5.txt в котором будет 13 строк.		---->	$ cat > tf_5.txt
+15. Сделать текстовый файл tF_5.txt в котором будет 13 строк.		---->	$ cat > tF_5.txt
 										1. aaa
 										2. bbb
 										3. ccc
